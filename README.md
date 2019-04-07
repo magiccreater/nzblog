@@ -5,4 +5,4 @@
 - enjoy blog site with sample data
 
 This is a demonstration code of laravel, mysql, mongodb, vue.js
-#chintan patel
+# chintan patel
